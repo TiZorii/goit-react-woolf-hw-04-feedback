@@ -55,7 +55,8 @@ const App = () => {
             neutral={feedback.neutral}
             bad={feedback.bad}
             total={countTotalFeedback}
-            positivePercentage={countPositiveFeedbackPercentage}
+              positivePercentage={countPositiveFeedbackPercentage}
+              
           />
         )}
       </Section>
